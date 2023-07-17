@@ -1,0 +1,8 @@
+Aucun logement trouvÃ©
+Aucun logement trouvÃ©
+Aucun logement trouvÃ©
+Aucun logement trouvÃ©
+Traceback (most recent call last):
+  File "/Users/xmd/project/schedule/main.py", line 9, in <module>
+    time.sleep(1)
+KeyboardInterrupt
